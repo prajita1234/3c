@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+}
+#img{
+    width:200px ;
+    height: 200px;
+    border-radius:50%
+     ;
+
+}
+#welcome{
+    height:100%;
+    background:linear-gradient(pink 0%,black 100%);
+    display: table;
+    width:100%
+}
+#inner{
+    display:table-cell ;
+    vertical-align: middle;
+}
+ol{
+    list-style: none;
+    position: fixed;
+    top:0px;
+    width: 100%;
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 10px;
+}
+li{
+display: inline;
+    padding:4px;
+    font-weight: bolder;
+    font-size:20px;
+    text-transform: uppercase;
+     font-family:fantasy ;
+
+}
+li:hover{
+    font-size: 25px;
+    text-decoration:underline ;
+}
+h2{
+    font-family: 'Cormorant Garamond', serif;
+    font-size:28px
+}
+p{
+    font-size:17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 25px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+font-weight:8px ;
+text-transform: uppercase;}
+
+
+
